@@ -12,7 +12,7 @@ XPath Evaluator est une application Tkinter qui permet de charger un fichier HTM
 
 ## Captures d'écran
 
-![Capture d'écran](screenshot.png)
+![Capture d'écran](screenshot.PNG)
 
 ## Installation
 
