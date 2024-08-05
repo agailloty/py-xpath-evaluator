@@ -6,7 +6,7 @@ class XPathApp:
     def __init__(self, root):
         self.root = root
         self.root.title("XPath Evaluator")
-        self.root.geometry("800x500")
+        self.root.geometry("800x600")
         self.root.config(bg="white")
         
         # Menu
